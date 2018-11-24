@@ -2,7 +2,7 @@
 
 
 ## Share a Notebook
-1. Sign in [ExperimentorX](https://experimentorx.mentoracademy.org) with your Github account.
+1. Sign in [Experimentor](https://experimentor-test.mentoracademy.org) with your Github account.
 
 2. Create a notebook file.
 

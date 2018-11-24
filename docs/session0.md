@@ -6,4 +6,4 @@
 
 3. Install the Lookback extension for sharing screen. Follow the instructions and upload a screen-recorded video before the first session using [this link](https://participate.lookback.io/hx26hG)
 
-4. Join the Slack group using [this link](https://join.slack.com/t/cds-study/shared_invite/enQtNDM2MTE0NjE4NzI1LTA2N2VlMDZkZDgzYTI1OGFmNmZlN2I4OTI2MDk3ZTM3ZTZjYTQzMzE2NDNlOTMxNjhhNmRhYTg3M2YzZTcwYjc)
+4. Join the Slack group using [this link](https://join.slack.com/t/cds-study/shared_invite/enQtNDg3MjAyODk0MTgxLWI0ZGE4YzUwMDZiYjY4NTFlMzAzMjBkOGMwYjFmNjA0OTgyNDc1MDQ0YmY2YTg4NmRlOWQ3ZTI3NGExYWQzMjQ)

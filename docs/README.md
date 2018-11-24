@@ -6,10 +6,10 @@
 
 ## Group8 Timeline
 <!-- Change the timeline for each group! -->
-- Session 1: November 24, 3:00pm - 4:00pm, CET (9:00am - 10:00am, EST)
-- Session 2: November 24, 4:00pm - 5:00pm, CET (10:00am - 11:00am, EST) 
-- Session 3: November 25, 3:00pm - 4:00pm, CET (9:00am - 10:00am, EST) 
-- Session 4: November 25, 4:00pm - 5:00pm, CET (10:00am - 11:00am, EST) 
+- Session 1: December 1, 3:00pm - 4:00pm, CET (9:00am - 10:00am, EST)
+- Session 2: December 1, 4:00pm - 5:00pm, CET (10:00am - 11:00am, EST) 
+- Session 3: December 2, 3:00pm - 4:00pm, CET (9:00am - 10:00am, EST) 
+- Session 4: December 2, 4:00pm - 5:00pm, CET (10:00am - 11:00am, EST) 
 
 ## Task Description
 The problem description will be posted [here](overview.md) when the study starts. You should submit the following materials at the end of the study:
@@ -19,7 +19,7 @@ The problem description will be posted [here](overview.md) when the study starts
 We are using a remote screensharing tool to collect data. You should walkthrough [session 0](session0.md) before the study to install the required tools.
 
 ## Tools for Collaboration
-Please use [ExperimentorX](https://experimentorx.mentoracademy.org) for collaboratively editing Jupyter Notebooks. A detailed instruction could be find [here](howto.md). Feel free to use other tools for collaboration.
+Please use [Experimentor](https://experimentor-test.mentoracademy.org) for collaboratively editing Jupyter Notebooks. A detailed instruction could be find [here](howto.md). Feel free to use other tools for collaboration.
 
 ## Contact
 

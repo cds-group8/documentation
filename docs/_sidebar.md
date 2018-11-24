@@ -1,5 +1,5 @@
 <!-- For groups using shared Notebook -->
-* [How to use ExperimentorX](howto.md)
+* [How to use Experimentor](howto.md)
 
 * [Session 0 - Setup](session0.md)
 
